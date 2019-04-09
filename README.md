@@ -6,3 +6,4 @@ First Script: SetupNordVPNSecuredWifi.py, is to setup the Virtual Wifi.
 Second Script: NordVPNSecuredWifiOnOff.py, is to easily turn the virtaul Wifi On and Off.
 Third Script: VirtualAdapterRemover.py, is to remove the virtual Wifi (in case you need to remove it).
 I also made EXE version of the three scripts just to make it easy for everyone to use them.
+When I wrote those scripts I was focused on NordVPN but those tools are universal and can be used to setup a virtual Wifi, turn it On/Off or remove it.
