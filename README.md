@@ -1,5 +1,4 @@
 # NordVPN-Tools
-"Privacy is a human right not a privilege...Defend yours!!"
 I recently got a 3 years plan for NordVPN and I really recommend it for everyone.
 For some devices that don't support VPN I had to setup a Secured Virtual Wifi to share it with those devices.
 I created three python scripts that can make this very easy for everyone.
