@@ -15,4 +15,4 @@ https://github.com/minamagdyshehata/NordVPN-Tools/raw/master/NordVPNSecuredWifiO
 
 https://github.com/minamagdyshehata/NordVPN-Tools/raw/master/VirtualAdapterRemover.exe
 
-Enjoy!! :)
+Enjoy :)
