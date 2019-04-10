@@ -10,7 +10,9 @@ When I wrote those scripts I was focused on NordVPN but those tools are universa
 Here are the download links for the EXE version of the three scripts :
 
 https://github.com/minamagdyshehata/NordVPN-Tools/raw/master/SetupNordVPNSecuredWifi.exe
+
 https://github.com/minamagdyshehata/NordVPN-Tools/raw/master/NordVPNSecuredWifiOnOff.exe
+
 https://github.com/minamagdyshehata/NordVPN-Tools/raw/master/VirtualAdapterRemover.exe
 
 Enjoy!! :)
